@@ -1,45 +1,56 @@
-# Hi, I'm Zeinab Siddig! 👋
+## Hi, I'm Zeinab Siddig! 👋
 
-**Chemical Engineer | Educator | Data Enthusiast**  
+🌱 Chemical Engineer | Data Science Enthusiast | Environmental Advocate
 
-Welcome to my GitHub profile! I’m dedicated to leveraging my skills in chemical engineering, data Sceince, and education to solve real-world challenges and inspire others through my work.
+Welcome to my GitHub profile! I’m passionate about combining my background in
+ chemical engineering with data science to solve environmental challenges and
+ drive sustainable solutions.
 
 ---
 
 ## 🛠 About Me
 
-- 🎓 **Education**: Bachelor's in Chemical Engineering from the University of Khartoum.  
-- 🧑‍🏫 **Experience**: Teaching Assistant, Reseach Assistant and Data Analyst
-- 🔬 **Research**: Focused on environmental issues in the petroleum industry, with expertise in data analysis  
-- 🌟 **Achievements**: Successfully completed the FTL Global Machine Learning Bootcamp and multiple professional development courses.  
-- 🤝 **Volunteer Work**: Actively involved in community initiatives to support education and skill development.  
+🎓 Education: Bachelor's degree in Chemical Engineering and currently pursuing
+ Computer Science at the University of the People.
 
----
+🌟 Current: Participating in the MIT Talent Program to further enhance
+ my expertise.
 
-## 💡 What I Do Best
+🌟 Achievements: Successfully completed the FTL Global Machine Learning
+Bootcamp, Google Data Analytics Certificate, ALX AI Career Program,
+and McKinsey Forward Program in soft skills.
 
-- Designing solutions for complex engineering problems.  
-- Teaching and mentoring students in engineering principles.  
-- Analyzing data and creating insightful visualizations to support decision-making.  
-- Building educational programs and resources for underserved communities.  
+🌍 Goal: Leveraging my engineering and technology expertise to address pressing
+environmental issues and drive impactful, sustainable solutions.
 
+## 🚀 What I Excel In
+
+- Data Analysis: Extracting insights from complex data sets to inform decisions.
+  
+- Mathematical Problem Solving: Tackling engineering and scientific problems
+   with a strong mathematical foundation.
+  
+- Innovative Solutions: Developing creative solutions for complex challenges.
+- Volunteering: Contributing to community development and social causes.
+- Content Writing: Crafting clear and engaging written materials for diverse
+  audiences.
+  
 ---
 
 ## 🌱 What I'm Learning
 
-- Deepening my expertise in **Machine Learning** and **Data Science**.  
-- Exploring innovative applications of **Chemical Nanoengineering** for sustainability.  
-- Continuously honing my **graphic design** and **soft skills** for professional growth.  
+- Expanding my expertise in Machine Learning and Data Science to solve real-world challenges.
+- Enhancing my skills in Environmental research to drive sustainable solutions.
+- Continuously developing my soft skills and management abilities to foster leadership and professional growth.
 
 ---
 
-
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 - 💼 **LinkedIn**: [Zeinab Siddig](www.linkedin.com/in/zeinab-mohmmed)
-- 📧 **Email**: zeinbwahid98@gmail.com
+- 📧 **Email**: <zeinbwahid98@gmail.com>
 
 ---
 
-Thank you for visiting my GitHub profile! Feel free to explore, collaborate, or reach out. Let’s create something impactful together! 🌟  
+Thank you for visiting my GitHub profile! Feel free to explore, collaborate,
+or reach out. Let’s create something impactful together! 🌟  
