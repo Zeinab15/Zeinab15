@@ -1,13 +1,13 @@
-<div align="center"> ![Welcome GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+# <div align="center"> ![Welcome GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
 
-Hi, I'm Zeinab! 👋 </div>
+## Hi, I'm Zeinab! 👋 </div>
 
-### Passion for Mathematics and Programming
+## Passion for Mathematics and Programming
 
 With an insatiable love for math and coding, I'm on a mission to solve real-world
 puzzles and create cutting-edge solutions!
 
-## 🛠 Skills
+### 🛠 Skills
 
 - **Programming**:
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
