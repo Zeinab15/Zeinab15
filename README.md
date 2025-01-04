@@ -4,7 +4,8 @@
 
 ### Passion for Mathematics and Programming
 
-With an insatiable love for math and coding, I'm on a mission to solve real-world puzzles and create cutting-edge solutions!
+With an insatiable love for math and coding, I'm on a mission to solve real-world
+puzzles and create cutting-edge solutions!
 
 ## 🛠 Skills
 
@@ -37,14 +38,15 @@ With an insatiable love for math and coding, I'm on a mission to solve real-worl
 
 ## 📫 Let’s Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/zeinab-mohmmed" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:zeinbwahid98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-mohmmed)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:zeinbwahid98@gmail.com)
+
+</div>
+
+</div>
 
 ---
 
