@@ -1,6 +1,6 @@
-# <div align="center"> ![Welcome GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+# <div align="center"> ![Welcome GIF][def]
 
-## Hi, I'm Zeinab! 👋 </div>
+## Hi, I'm Zeinab! 👋
 
 ## Passion for Mathematics and Programming
 
@@ -47,3 +47,5 @@ puzzles and create cutting-edge solutions!
 ### ✨ Let’s Create Impact Together
 
 > "Turning data into actionable insights and challenges into sustainable solutions."
+
+[def]: https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif
