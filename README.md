@@ -38,8 +38,6 @@ puzzles and create cutting-edge solutions!
 
 ## 📫 Let’s Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeinab-mohmmed)
 
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:zeinbwahid98@gmail.com)
