@@ -1,4 +1,4 @@
-# ![Welcome GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)  
+# <div align="center"> ![Welcome GIF](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)</div>
 
 ## Hi, I'm Zeinab! 👋
 
