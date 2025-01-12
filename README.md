@@ -43,8 +43,6 @@ puzzles and create cutting-edge solutions!
    solidifying Python fundamentals.  
 - **Soft Skills Development**: Certification from HP Life, enhancing
    professional communication and teamwork.  
-- **ALX AiCE Program Graduate**: Part of Cohort 6, completed a rigorous
-   curriculum in AI and Machine Learning.  
 - **McKinsey Forward Program**: Completed a future-focused program designed to
    develop leadership, problem-solving, and digital skills, preparing for
   challenges in the modern workplace.  
