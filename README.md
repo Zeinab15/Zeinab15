@@ -34,15 +34,21 @@ puzzles and create cutting-edge solutions!
 
 ### 🏆 Certifications & Achievements  
 
-- **Machine Learning Bootcamp**: Successfully completed the **Fortnite Tech Leaders Program**, gaining hands-on experience in tackling real-world problems related to SDGs.  
-- **Artificial Intelligence Career Essentials**: ALX Program, focused on foundational AI concepts and applications.  
-- **Python for Everybody**: Specialization from the University of Michigan, solidifying Python fundamentals.  
-- **Soft Skills Development**: Certification from HP Life, enhancing professional communication and teamwork.  
-- **ALX AiCE Program Graduate**: Part of Cohort 6, completed a rigorous curriculum in AI and Machine Learning.  
-- **McKinsey Forward Program**: Completed a future-focused program designed to develop leadership, problem-solving, and digital skills, preparing for challenges in the modern workplace.
-  
+- **Machine Learning Bootcamp**: Successfully completed the **Fortnite Tech Leaders Program**,
+  gaining hands-on experience in tackling real-world problems related to SDGs.  
+- **Artificial Intelligence Career Essentials**: ALX Program, focused on foundational
+   AI concepts and applications.  
+- **Python for Everybody**: Specialization from the University of Michigan,
+  solidifying Python fundamentals.  
+- **Soft Skills Development**: Certification from HP Life, enhancing professional
+   communication and teamwork.  
+- **ALX AiCE Program Graduate**: Part of Cohort 6, completed a rigorous
+  curriculum in AI and Machine Learning.  
+- **McKinsey Forward Program**: Completed a future-focused program designed
+   to develop leadership, problem-solving, and digital skills, preparing for challenges
+   in the modern workplace.
+   
 ---
-
 
 ## 📊 GitHub Stats
 
@@ -55,7 +61,6 @@ puzzles and create cutting-edge solutions!
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:zeinbwahid98@gmail.com)
 
 ---
-
 
 ### ✨ Let’s Create Impact Together
 
